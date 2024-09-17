@@ -1,4 +1,4 @@
-![зображення](https://github.com/user-attachments/assets/9ea1e8c0-2075-4b9c-aa12-b918d8b19401)# Отримуємо халяву від JetBrains та Github
+# Отримуємо халяву від JetBrains та Github
 
 Тобто економимо кучу бабла і пишемо код з лютим комфортіком. В цьому мануалі описано як це робити через GitHub Student Developer Pack
 ### Зауваження:

@@ -37,7 +37,7 @@
 
 
 
-## ✅ Ітогі: можемо оформити любу халяву описану [тут](https://education.github.com/pack), і вже ваємо круті IDE від JetBrains 
+## ✅ Ітогі: можемо оформити любу халяву описану [тут](https://education.github.com/pack), і вже маємо круті IDE від JetBrains 
 
 
 

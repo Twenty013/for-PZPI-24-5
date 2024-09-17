@@ -8,5 +8,6 @@
   
   **!! Далі потрібно авторизуватись через Гітхаб тому в кого нема аку, створюємо**
 - Після авторизації листаємо униз
-![зображення](https://github.com/user-attachments/assets/d7d24db7-b858-4615-b47c-1e7139b6fb8d)
+![зображення](https://github.com/user-attachments/assets/67c483c7-cb27-46c8-882f-87f1fc4daf58)
+
 

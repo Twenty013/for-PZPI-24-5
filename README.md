@@ -20,7 +20,7 @@
 
   ![зображення](https://github.com/user-attachments/assets/178e2743-c485-434a-bcbe-21c7b5c9af7c)
 
-## Крок другий
+## Крок другий (Лутаємо IDE від JetBrains)
 
 
 

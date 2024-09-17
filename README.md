@@ -1,6 +1,8 @@
 # Отримуємо халяву від JetBrains та Github
 
 Тобто економимо кучу бабла і пишемо код з лютим комфортіком. В цьому мануалі описано як це робити через GitHub Student Developer Pack
+#### Зауваження: Якщо у вас є ISIC/ITIC то можете відразу переходити до [другого кроку ](https://github.com/Twenty013/for-PZPI-24-5?tab=readme-ov-file#%D0%BA%D1%80%D0%BE%D0%BA-%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B9-%D0%BB%D1%83%D1%82%D0%B0%D1%94%D0%BC%D0%BE-ide-%D0%B2%D1%96%D0%B4-jetbrains)
+
 
 ## Крок перший (Отримання GitHub Student Developer Pack)
 - Реєструємо Github Student
@@ -21,6 +23,11 @@
   ![зображення](https://github.com/user-attachments/assets/178e2743-c485-434a-bcbe-21c7b5c9af7c)
 
 ## Крок другий (Лутаємо IDE від JetBrains)
+### До цього кроку можна переходити після отрумання пакету GitHub Student Developer Pack
+  - Заходимо на сайт **/Education/Free licenses**, листаємо униз і натискаємо **Apply now** ну або тицяємо [сюда](https://www.jetbrains.com/shop/eform/students)
+
+  ![зображення](https://github.com/user-attachments/assets/a86ec1c2-8e2b-49ad-821e-83eba550bc81)
+
 
 
 

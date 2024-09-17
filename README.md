@@ -5,5 +5,4 @@
 ## Крок перший
 - Реєструємо Github Student
   Переходимо на [сайт Github Education](https://education.github.com/pack), і тицяємо на кнопку Sign up for Student Developer Pack
-
   **Далі потрібно авторизуватись через Гітхаб тому в кого нема аку, створюємо**

@@ -8,6 +8,8 @@
   
   **!! Далі потрібно авторизуватись через Гітхаб тому в кого нема аку, створюємо**
 - Після авторизації листаємо униз
+  Тут у поле для вводу вписуємо `Kharkiv National University of Radio Electronics`
+  
 ![зображення](https://github.com/user-attachments/assets/67c483c7-cb27-46c8-882f-87f1fc4daf58)
 
 

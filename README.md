@@ -16,6 +16,12 @@
 
   ![зображення](https://github.com/user-attachments/assets/ed9d77f1-d8b1-4439-ae62-714c49a78534)
 
+- **Після всих цих махінацій чекаємо підтвердження від Github, деталі прийдуть на пошту або можна перевірити [тут](https://education.github.com/discount_requests/application)** у такому вигляді
+
+  ![зображення](https://github.com/user-attachments/assets/178e2743-c485-434a-bcbe-21c7b5c9af7c)
+
+
+
 
 
 

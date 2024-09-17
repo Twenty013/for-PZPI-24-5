@@ -12,4 +12,10 @@
   
   ![зображення](https://github.com/user-attachments/assets/67c483c7-cb27-46c8-882f-87f1fc4daf58)
 
+- Далі потрібно сфоткати свій студентський, можна через комп а можна просто зайти на сайт через телефон
+
+  ![зображення](https://github.com/user-attachments/assets/ed9d77f1-d8b1-4439-ae62-714c49a78534)
+
+
+
 

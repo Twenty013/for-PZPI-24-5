@@ -28,7 +28,11 @@
 
   ![зображення](https://github.com/user-attachments/assets/a86ec1c2-8e2b-49ad-821e-83eba550bc81)
 
+ - Авторизуємося через Github, додаємо потрібні дані
 
+  ![зображення](https://github.com/user-attachments/assets/dc154cb9-f5f6-4bab-87bf-99c2835cf741)
+
+- Накіки я пам'ятаю активовуємо отриману ліцензію, і насолоджуємось
 
 
 

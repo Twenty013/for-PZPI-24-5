@@ -10,6 +10,6 @@
 - Після авторизації листаємо униз
   Тут у поле для вводу вписуємо `Kharkiv National University of Radio Electronics`, вас попросять додати почту @nure як одну з пошт акаунта
   
-![зображення](https://github.com/user-attachments/assets/67c483c7-cb27-46c8-882f-87f1fc4daf58)
+  ![зображення](https://github.com/user-attachments/assets/67c483c7-cb27-46c8-882f-87f1fc4daf58)
 
 
